@@ -1,0 +1,68 @@
+aaaaa aaaaa
+aaaaa AAAAA
+AaAaA aAaAa
+aaaaa bbbbb
+aaaaa bbbba
+aaaaa bbbbc
+aaaaa bbbbV
+aaaaa bbbcb
+aaaaa cbbbb
+aaaaa bbcbb
+aaaaa bbsss
+aaaaa bsssb
+aaaaa sssbb
+aaaab aaaab
+aaaab ccccd
+aaaab ccdcc
+aaaab dcccc
+aaaab ccccD
+aabaa CCCCd
+baaaa ccccd
+aaaa1 aaa12
+aaaa1 aa12a
+aaaa2 1a2aa
+aaabb cccdd
+aaabb ddccc
+aaabb cddcc
+aaabb ccDDc
+abcde abcde
+abcde Abcde
+abcde aaaaa
+abcde Aaaaa
+abcde AAAAA
+abcde aaaab
+abcde baaaa
+abcde aaBaa
+ABCDE aaaba
+abcde ABCDE
+abcde aaabb
+abcde aabba
+abcde bbaaa
+abcde ababa
+01234 !@#$%
+1 1
+12 12
+12 21
+123 123
+123 132
+1234 1234
+1234 1324
+12345
+1
+12
+123
+1234
+12345 1
+12345 12
+12345 123
+12345 1234
+12345 123456
+123456
+123465 1
+123456 12
+123456 123
+123456 1234
+123456 12345
+123456 123456
+12345 12345 12345
+aa134 AA456
